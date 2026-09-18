@@ -46,8 +46,7 @@ Full-stack civic issue-reporting platform with geo-tagging and real-time status 
 Microservices-based payment tracking system with OAuth 2.0 security, Factory & Strategy design patterns, circuit breaker fault tolerance, and Kafka-based real-time event processing.
 `Java` · `Spring Boot` · `Kafka` · `Docker` · `AWS (EC2, RDS, Secrets Manager)`
 
-**[Demo1 – Trekking Guide Management](https://github.com/dheerajshah007-arc/Demo1)**
-Management system for trekking guide operations.
+
 
 ---
 
